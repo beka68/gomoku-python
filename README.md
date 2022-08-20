@@ -5,4 +5,4 @@ higher order funcions.
 
 ## GUI 
 
-GUI uses tkinter for drawing board and pieces.
+GUI uses tkinter library for drawing board and pieces.
